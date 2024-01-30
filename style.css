@@ -1,0 +1,10 @@
+.heading{
+    width: 100%;
+    margin:0px;
+    font-size:30px;
+}
+
+.button{
+    border-color:white;
+    float:right;
+}
